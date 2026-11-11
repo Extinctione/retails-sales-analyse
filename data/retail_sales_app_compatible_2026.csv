@@ -1,0 +1,62 @@
+Transaction_ID,Date,Customer_ID,Product_ID,Product_Name,Category,Unit_Price,Quantity,Discount_Percent,Total_Amount,Payment_Method,Region,City,Sales_Channel
+ORD001,2026-01-05,CUST001,PROD001,Laptop,Electronics,650.0,1.0,0,650.0,Credit Card,South,Bengaluru,Online
+ORD002,2026-01-10,CUST002,PROD002,Headphones,Electronics,45.0,4.0,0,180.0,Debit Card,South,Chennai,In-store
+ORD003,2026-01-15,CUST003,PROD003,Smartphone,Electronics,420.0,7.0,0,2940.0,UPI,South,Hyderabad,Online
+ORD004,2026-01-20,CUST004,PROD004,T-Shirt,Clothing,22.0,5.0,0,110.0,Cash,West,Mumbai,In-store
+ORD005,2026-01-25,CUST005,PROD005,Jeans,Clothing,48.0,5.0,0,240.0,Net Banking,West,Pune,Online
+ORD006,2026-01-30,CUST006,PROD006,Shoes,Clothing,65.0,8.0,0,520.0,Credit Card,North,Delhi,In-store
+ORD007,2026-02-04,CUST007,PROD007,Coffee Maker,Home Appliances,80.0,3.0,0,240.0,Debit Card,East,Kolkata,Online
+ORD008,2026-02-09,CUST008,PROD008,Blender,Home Appliances,55.0,6.0,0,330.0,UPI,West,Ahmedabad,In-store
+ORD009,2026-02-14,CUST009,PROD009,Backpack,Accessories,35.0,1.0,0,35.0,Cash,South,Bengaluru,Online
+ORD010,2026-02-19,CUST010,PROD010,Watch,Accessories,75.0,4.0,0,300.0,Net Banking,South,Chennai,In-store
+ORD011,2026-02-24,CUST011,PROD001,Laptop,Electronics,650.0,3.0,0,1950.0,Credit Card,South,Hyderabad,Online
+ORD012,2026-03-01,CUST012,PROD002,Headphones,Electronics,45.0,2.0,0,90.0,Debit Card,West,Mumbai,In-store
+ORD013,2026-03-06,CUST013,PROD003,Smartphone,Electronics,,5.0,0,,UPI,West,Pune,Online
+ORD014,2026-03-11,CUST014,PROD004,T-Shirt,Clothing,22.0,8.0,0,176.0,Cash,North,Delhi,In-store
+ORD015,2026-03-16,CUST015,PROD005,Jeans,Clothing,48.0,3.0,0,144.0,Net Banking,East,Kolkata,Online
+ORD016,2026-03-21,CUST016,PROD006,Shoes,Clothing,65.0,6.0,0,390.0,Credit Card,West,Ahmedabad,In-store
+ORD017,2026-03-26,CUST017,PROD007,Coffee Maker,Home Appliances,80.0,1.0,0,80.0,Debit Card,South,Bengaluru,Online
+ORD018,2026-03-31,CUST018,PROD008,Blender,Home Appliances,55.0,4.0,0,220.0,UPI,South,Chennai,In-store
+ORD019,2026-04-05,CUST019,PROD009,Backpack,Accessories,35.0,7.0,0,245.0,Cash,South,Hyderabad,Online
+ORD020,2026-04-10,CUST020,PROD010,Watch,Accessories,75.0,2.0,0,150.0,Net Banking,West,Mumbai,In-store
+ORD021,2026-04-15,CUST001,PROD001,Laptop,Electronics,650.0,1.0,0,650.0,Credit Card,West,Pune,Online
+ORD022,2026-04-20,CUST002,PROD002,Headphones,Electronics,45.0,8.0,0,360.0,Debit Card,North,Delhi,In-store
+ORD023,2026-04-25,CUST003,PROD003,Smartphone,Electronics,420.0,3.0,0,1260.0,UPI,East,Kolkata,Online
+ORD024,2026-04-30,CUST004,PROD004,T-Shirt,Clothing,22.0,4.0,0,88.0,Cash,West,Ahmedabad,In-store
+ORD025,2026-05-05,CUST005,PROD005,Jeans,Clothing,48.0,1.0,0,48.0,Net Banking,South,Bengaluru,Online
+ORD026,2026-05-10,CUST006,PROD006,Shoes,Clothing,65.0,4.0,0,260.0,Credit Card,South,Chennai,In-store
+ORD027,2026-05-15,CUST007,PROD007,Coffee Maker,Home Appliances,80.0,7.0,0,560.0,Debit Card,South,Hyderabad,Online
+ORD028,2026-05-20,CUST008,PROD008,Blender,Home Appliances,55.0,,0,,UPI,West,Mumbai,In-store
+ORD029,2026-05-25,CUST009,PROD009,Backpack,Accessories,35.0,5.0,0,175.0,Cash,West,Pune,Online
+ORD030,2026-05-30,CUST010,PROD010,Watch,Accessories,75.0,8.0,0,600.0,Net Banking,North,Delhi,In-store
+ORD031,2026-06-04,CUST011,PROD001,Laptop,Electronics,650.0,3.0,0,1950.0,Credit Card,East,Kolkata,Online
+ORD032,2026-06-09,CUST012,PROD002,Headphones,Electronics,45.0,6.0,0,270.0,Debit Card,West,Ahmedabad,In-store
+ORD033,2026-06-14,CUST013,PROD003,Smartphone,Electronics,420.0,1.0,0,420.0,UPI,South,Bengaluru,Online
+ORD034,2026-06-19,CUST014,PROD004,T-Shirt,Clothing,22.0,7.0,0,154.0,Cash,South,Chennai,In-store
+ORD035,2026-06-24,CUST015,PROD005,Jeans,Clothing,48.0,7.0,0,336.0,Net Banking,South,Hyderabad,Online
+ORD036,2026-06-29,CUST016,PROD006,Shoes,Clothing,65.0,2.0,0,130.0,Credit Card,West,Mumbai,In-store
+ORD037,2026-07-04,CUST017,PROD007,Coffee Maker,Home Appliances,80.0,5.0,0,400.0,Debit Card,West,Pune,Online
+ORD038,2026-07-09,CUST018,PROD008,Blender,Home Appliances,55.0,8.0,0,440.0,UPI,North,Delhi,In-store
+ORD039,2026-07-14,CUST019,PROD009,Backpack,Accessories,35.0,3.0,0,105.0,Cash,East,Kolkata,Online
+ORD040,2026-07-19,CUST020,PROD010,Watch,Accessories,75.0,6.0,0,450.0,Net Banking,West,Ahmedabad,In-store
+ORD041,2026-07-24,CUST001,PROD001,Laptop,Electronics,650.0,1.0,0,650.0,Credit Card,South,Bengaluru,Online
+ORD042,2026-07-29,CUST002,PROD002,Headphones,Electronics,45.0,4.0,0,180.0,Debit Card,South,Chennai,In-store
+ORD043,2026-08-03,CUST003,PROD003,Smartphone,Electronics,420.0,7.0,0,2940.0,UPI,South,Hyderabad,Online
+ORD044,2026-08-08,CUST004,PROD004,T-Shirt,Clothing,22.0,3.0,0,66.0,Cash,West,Mumbai,In-store
+ORD045,2026-08-13,CUST005,PROD005,Jeans,Clothing,48.0,5.0,0,240.0,Net Banking,West,Pune,Online
+ORD046,2026-08-18,CUST006,PROD006,Shoes,Clothing,65.0,8.0,0,520.0,Credit Card,North,Delhi,In-store
+ORD047,2026-08-23,CUST007,PROD007,Coffee Maker,Home Appliances,80.0,3.0,0,240.0,Debit Card,East,Kolkata,Online
+ORD048,2026-08-28,CUST008,PROD008,Blender,Home Appliances,55.0,6.0,0,330.0,UPI,West,Ahmedabad,In-store
+ORD049,2026-09-02,CUST009,PROD009,Backpack,Accessories,35.0,1.0,0,35.0,Cash,South,Bengaluru,Online
+ORD050,2026-09-07,CUST010,PROD010,Watch,Accessories,75.0,4.0,0,300.0,Net Banking,South,Chennai,In-store
+ORD051,2026-09-12,CUST011,PROD001,Laptop,Electronics,650.0,3.0,0,1950.0,Credit Card,South,Hyderabad,Online
+ORD052,2026-09-17,CUST012,PROD002,Headphones,Electronics,45.0,2.0,0,90.0,Debit Card,West,Mumbai,In-store
+ORD053,2026-09-22,CUST013,PROD003,Smartphone,Electronics,420.0,5.0,0,2100.0,UPI,West,Pune,Online
+ORD054,2026-09-27,CUST014,PROD004,T-Shirt,Clothing,22.0,6.0,0,132.0,Cash,North,Delhi,In-store
+ORD055,2026-10-02,CUST015,PROD005,Jeans,Clothing,48.0,3.0,0,144.0,Net Banking,East,Kolkata,Online
+ORD056,2026-10-07,CUST016,PROD006,Shoes,Clothing,65.0,6.0,0,390.0,Credit Card,West,Ahmedabad,In-store
+ORD057,2026-10-12,CUST017,PROD007,Coffee Maker,Home Appliances,80.0,1.0,0,80.0,Debit Card,South,Bengaluru,Online
+ORD058,2026-10-17,CUST018,PROD008,Blender,Home Appliances,55.0,4.0,0,220.0,UPI,South,Chennai,In-store
+ORD059,2026-10-22,CUST019,PROD009,Backpack,Accessories,35.0,7.0,0,245.0,Cash,South,Hyderabad,Online
+ORD060,2026-10-27,CUST020,PROD010,Watch,Accessories,75.0,2.0,0,150.0,Net Banking,West,Mumbai,In-store
+ORD021,2026-04-15,CUST001,PROD001,Laptop,Electronics,650.0,1.0,0,650.0,Credit Card,West,Pune,Online

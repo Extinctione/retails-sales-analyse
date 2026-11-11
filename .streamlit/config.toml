@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#2563EB"
+backgroundColor = "#F6F7FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0B1222"
+font = "sans serif"
+
+[client]
+# Keep tracebacks visible in the browser. If this were ever set to false,
+# a startup/runtime exception would show only a generic "something went
+# wrong" message (or nothing) instead of the actual error -- making a
+# failure look like a blank page with no way to diagnose it.
+showErrorDetails = true
